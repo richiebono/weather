@@ -28,4 +28,4 @@ n your terminal, the first time you use
 - - -
 ## Preview
 
-![alt text](https://github.com/richiebono/weather/blob/master/image-preview.png?raw=true)
+![alt text](https://github.com/richiebono/weather/blob/main/image-preview.png)
