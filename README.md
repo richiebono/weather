@@ -1,4 +1,4 @@
-# Wather React ⛅
+# Weather React ⛅
 
 #### Description
 
