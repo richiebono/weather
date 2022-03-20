@@ -26,7 +26,7 @@ export default props => {
 
      let condition 
 
-     Object.keys(obj).forEach(function(index){ //pega o code que foi passado 
+     Object.keys(obj).forEach(function(index){ //get the code passed  
           if(props.code === index){
                condition = obj[index]
           }
