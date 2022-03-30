@@ -19,10 +19,10 @@ n your terminal, the first time you use
 ##### Accessing the folder
 >cd weather
 
-##### Instalando as dependências
+##### Installing the dependencies
 >npm i
 
-##### Executando o projeto
+##### Running the project
 >npm start 
 
 - - -
